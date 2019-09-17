@@ -12,3 +12,15 @@ webkit-box-shadow: 5px 9px 30px 1px rgba(0, 0, 0, 0.5); /*Para funcionar em nave
 moz-box-shadow: 5px 9px 30px 1px rgba(0, 0, 0, 0.5);
 
 }
+
+.Descricao_Titulo{
+	color: #FF0000;
+	font-family: new gothicMT;
+	font-size: 50px;
+}
+
+.Descricao_Resumo{
+	color:#FF0000;
+	font-family: arial;
+	font-size: 25px;
+}
